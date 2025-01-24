@@ -1,4 +1,9 @@
-.small-logo {
+.logo {
   width: 150px;
   height: auto;
+}
+
+.text1 {
+  font-family: cursive;
+  color: blue;
 }
