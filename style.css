@@ -1,3 +1,17 @@
+.parent {
+  position: relative;
+  height: 100vh; /* Full screen height for demo purposes */
+}
+
+#container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Shift back by half its own size */
+  width: 200px;
+  height: 100px;
+}
+
 .logo {
   width: 200px;
   height: auto;
