@@ -33,5 +33,7 @@ p.small {
 
 .add-button {
   border-radius: 12px;
+  border: none;
+  font-size: 10px;
 }
   
