@@ -1,13 +1,6 @@
 .parent {
   display: flex;
   justify-content: center; /* Horizontal centering */
-  align-items: center; /* Vertical centering */
-  height: 100vh; /* Full screen height for demo purposes */
-}
-
-#container {
-  width: 200px;
-  height: 100px;
 }
 
 .logo {
