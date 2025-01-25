@@ -10,6 +10,10 @@ p {
   margin-bottom: 0px;
 }
 
+p.small {
+  font-size: 10px;
+}
+
 .text1 {
   font-family: cursive;
   color: blue;
@@ -25,10 +29,6 @@ p {
 .menu-title {
   font-weight: bold;
   line-height: 1.5;
-}
-
-.menu_description {
-  font-size: 10px;
 }
 
 .add-button {
